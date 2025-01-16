@@ -1,0 +1,5 @@
+node-pngjs (5.0.0-1) UNRELEASED; urgency=medium
+
+  * Initial packaging.
+
+ -- s0600204 <dev@s0600204>  Fri, 17 Jan 2025 21:11:00 +0000
