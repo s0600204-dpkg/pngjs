@@ -6,7 +6,8 @@ Rules-Requires-Root: no
 Build-Depends:
  debhelper-compat (= 13),
  dh-sequence-nodejs,
- nodejs
+ nodejs,
+ rollup
 Standards-Version: 4.6.2
 Homepage: https://github.com/pngjs/pngjs
 
