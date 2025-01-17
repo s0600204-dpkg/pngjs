@@ -1,1 +1,1 @@
-rollup -c
+browserify lib/png.js --standalone png > browser.js
